@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ayushsinghverma
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning Data Science at Great Learning.
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me:
