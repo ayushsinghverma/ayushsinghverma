@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ayushsinghverma
 - 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently learning Data Science at Great Learning.
-- 💞️ I’m looking to collaborate on any project
+- 💞️ I’m looking forward to work as a full time Data Personell
 - 📫 How to reach me:
 - Email: ayushsinghverma07@gmail.com
 - Linked In- https://www.linkedin.com/in/ayush-singh-verma/
