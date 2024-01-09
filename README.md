@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayushsinghverma
 - 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning Data Science at Great Learning.
+- 🌱 I’m currently learning Data Science at Great Lakes Institute of Management.
 - 💞️ I’m looking forward to work as a full time Data Analyst/Scientist
 - 📫 How to reach me:
 - Email: ayushsinghverma07@gmail.com
